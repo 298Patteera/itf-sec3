@@ -1,0 +1,22 @@
+h1 {
+    font-size: 128px;
+    color: blue;
+    text-align: center;
+
+}
+
+.red-text {
+    color:res;
+}
+
+#second {
+    border : 2px red solid
+    padding : 100px 40px;
+    margin: 150px 0px;
+    display: inline-block;
+
+}
+
+.container {
+    border: 2px blue solid;
+}
